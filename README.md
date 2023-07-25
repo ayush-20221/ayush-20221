@@ -6,13 +6,11 @@
 
 - 🌱 I’m currently learning **React.js,Vue.js,Node.js and MySQL**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1FyHte_ei5XHdd6lbCf8TUqyozPQxxkxy/view?usp=drivesdk](https://drive.google.com/file/d/1FyHte_ei5XHdd6lbCf8TUqyozPQxxkxy/view?usp=drivesdk)
-
-- 📝 I regularly write articles on [https://www.geeksforgeeks.org/layers-of-osi-model/](https://www.geeksforgeeks.org/layers-of-osi-model/)
+- 📝 I regularly write articles on [https://bit.ly/473xbcM](https://bit.ly/473xbcM)
 
 - 📫 How to reach me **26.ayush.04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FyHte_ei5XHdd6lbCf8TUqyozPQxxkxy/view?usp=drivesdk](https://drive.google.com/file/d/1FyHte_ei5XHdd6lbCf8TUqyozPQxxkxy/view?usp=drivesdk)
+- 📄 Know about my experiences [https://bit.ly/3Obwbuo](https://bit.ly/3Obwbuo)
 
 - ⚡ Fun fact **I am good at multitasking😁**
 
