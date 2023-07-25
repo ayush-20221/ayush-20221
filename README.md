@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/ayush-20221/ayush-20221/assets/109253401/cb4a9868-ab97-4c59-90ca-8940b4efe084)
 <h1 align="center">Hi 👋, I'm Ayush Agrawal</h1>
 <h3 align="center">A passionate Web Developer from KNIT Sultanpur</h3>
 
