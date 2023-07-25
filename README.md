@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Ayush Agrawal</h1>
 <h3 align="center">A passionate Web Developer from KNIT Sultanpur</h3>
 
-<imh align="right" alt="code" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🌱 I’m currently learning **React.js,Vue.js,Node.js and MySQL**
 
